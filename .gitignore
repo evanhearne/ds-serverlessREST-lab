@@ -8,3 +8,4 @@ cdk.out
 
 # Misc
 .DS_Store
+*.schema.json
